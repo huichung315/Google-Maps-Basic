@@ -7,8 +7,8 @@ html, body {
 
 #map {
     position: fixed;
-    top: 15px;
-    left: 10px;
-    width: 600px;
-    height: 600px;
+    top: 50px;
+    left: 50px;
+    width: 45%;
+    height: 90%;
 }
