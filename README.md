@@ -1,4 +1,4 @@
-GDG On Campus NTUB - Google Maps API 基本介紹與應用 (2024/12/19)
+## GDG On Campus NTUB - Google Maps API 基本介紹與應用 (2024/12/19)
 使用 HTML、CSS、JavaScript 和 Google Maps API 建立的基本地圖，可依個人需求擴充。
 ### 主要檔案
 - maps.html 包含地圖的基本網頁
